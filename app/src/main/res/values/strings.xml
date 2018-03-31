@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="photo_view">图片浏览</string>
+    <string name="photo_transiton_tag">photo_transition_tag</string>
+</resources>

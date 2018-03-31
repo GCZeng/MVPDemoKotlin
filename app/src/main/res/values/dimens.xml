@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dp_8">8dp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="home_rv_item_decoration">0dp</dimen>
+    <dimen name="home_rv_item_elevation">5dp</dimen>
+    <dimen name="home_rv_item_corner_radius">5dp</dimen>
+
+    <dimen name="toolbar_height">48dp</dimen>
+</resources>
